@@ -11,7 +11,7 @@ choiceArray = ['Even', 'even', 'E', 'e', 'Odd', 'odd', 'O', 'o']
 
 # instructions
 print('''
-    A number between 1 and 37 will be chosen at random.\n
+    A number between 1 and 36 will be chosen at random.\n
     You're goal is to guess if the number will be even or odd.\n
     Choices should be written as Even, even, E, e or Odd, odd, o, O.\n
     The game will end when you run out of money.\n
